@@ -34,4 +34,6 @@ Optional Desirable Requirements for the app:
 example, shake to clear an entry, swipe right to mark as purchased, swipe left to delete
 There is no associated logo or house style for this app yet so you have free reign over the appearance.
 
+
+Project Demonstration:
 https://github.com/ganeshsapkota/babybuy/issues/1#issuecomment-1374755162
