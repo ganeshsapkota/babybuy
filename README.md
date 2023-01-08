@@ -1,5 +1,6 @@
 # babybuy
-                                                                    **Scenario**
+## Note: we need to installed Android Studio to run this android mobile application
+                                                                **Scenario**
 **BabyBuy**
 You have been commissioned to create an app that will help parents create a list of items they need to buy
 before the birth of their baby and after. This app will store a list of items they need, as well as a description,
